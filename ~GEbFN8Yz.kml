@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>~GEbFN8Yz.kmz</name>
+	<StyleMap id="msn_ylw-pushpin7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin00">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>a6369bff</color>
+		</PolyStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin00">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<PolyStyle>
+			<color>a6369bff</color>
+		</PolyStyle>
+	</Style>
+	<Placemark>
+		<name>Lake Terreton (paleo Mud Lake) Seds Polygon</name>
+		<description><![CDATA[Estimated from data i Anderson et al 1996 (OFR96-248) and Anderson et al 1997 (OFR97-4010). Sediment layers generally fairly thin, <50 feet in most sections, but may be up to 100 feet. 
+
+The outline of Lake Terreton seds is very approximate. It could be smaller and narrower (confined to moat north of volcanic axial high).]]></description>
+		<styleUrl>#msn_ylw-pushpin7</styleUrl>
+		<Polygon>
+			<tessellate>1</tessellate>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-112.4562179394948,44.21713846656111,0 -112.5700651118176,44.18615555007671,0 -112.6645308795558,44.12606862164753,0 -112.7273953066115,44.05143096336334,0 -112.8505226695664,44.01551019178746,0 -112.8822250389581,43.92642754772776,0 -112.8950975186065,43.85912266034928,0 -112.9767264548979,43.88803491507747,0 -113.0706546349711,43.87142903151633,0 -113.0789702284893,43.82389618271492,0 -113.0566107294199,43.76032325291001,0 -113.116544102236,43.63768025770979,0 -113.2104186273229,43.57146122100319,0 -113.2234785853337,43.50497539990866,0 -113.2056251473603,43.42493433508724,0 -113.1330371204817,43.34096755308711,0 -113.1312798942633,43.34097911577788,0 -113.0123118661737,43.31410790984252,0 -112.8743009052147,43.29263856214391,0 -112.774567277227,43.29537656445237,0 -112.6781695990683,43.3006690460488,0 -112.5815566209548,43.33932630405422,0 -112.4986722288458,43.41643523293952,0 -112.4600084533542,43.45986594940068,0 -112.4001830540715,43.51730703856041,0 -112.3702533647518,43.53771429397221,0 -112.3194183255991,43.56297292684278,0 -112.2912224691464,43.59988514202738,0 -112.2877008651484,43.6024250808286,0 -112.1906238801799,43.66595495259426,0 -112.1319806493453,43.74881005519192,0 -112.0962876017375,43.80494338126509,0 -112.0317582465051,43.91981864727492,0 -111.9724991819169,44.03672658473042,0 -111.9645995391319,44.12134836377345,0 -111.9855092766254,44.18149487641229,0 -112.0261648925272,44.23259913567591,0 -112.15623178317,44.26663247762438,0 -112.2671597458908,44.26094460543424,0 -112.3654966793439,44.25725043347059,0 -112.4562179394948,44.21713846656111,0 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>
